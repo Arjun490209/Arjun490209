@@ -53,7 +53,7 @@ Git • GitHub
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: your- Cololfulz099.com 
+- 📧 Email: your- Cololfulz099@gmail.com 
 
 ---
 
