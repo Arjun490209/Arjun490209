@@ -60,7 +60,10 @@ A modern **Learning Management System** built using the **MERN Stack**.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun490209&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Arjun490209&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
@@ -68,7 +71,10 @@ A modern **Learning Management System** built using the **MERN Stack**.
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjun490209&theme=tokyonight" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Arjun490209&theme=tokyonight&margin-w=15&margin-h=15"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
