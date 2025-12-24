@@ -1,42 +1,59 @@
 <h1 align="center">Hi 👋, I'm Arjun Prajapati</h1>
-<h3 align="center">Full Stack Web Developer | MERN + Next.js | Web Development Enthusiast 🚀</h3>
+<h3 align="center">
+Full Stack Web Developer | MERN Stack & Next.js | Building Real-World Projects 🚀
+</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student & Passionate Developer  
-- 💻 Skilled in **MERN Stack + Next.js**  
-- 🌱 Currently learning **Advanced Backend & Deployment**  
-- 🚀 Love building real-world projects  
-- 🎯 Mission: Become a professional Full Stack Developer  
+
+- 🎓 Computer Science Student & Passionate Developer  
+- 💻 Full Stack Web Developer (**MERN + Next.js**)  
+- 🚀 Built real-world projects like **SkillHive LMS Platform**  
+- 🌱 Currently learning **Advanced Backend, APIs & Deployment**  
+- 🎯 Goal: Become a professional Full Stack Developer  
 
 ---
 
 ## 🛠 Tech Stack & Tools
 
-**Frontend:**  
-React.js • Next.js • HTML • CSS • TailwindCSS • JavaScript  
+### 🚀 Frontend
+React.js • Next.js • JavaScript (ES6+) • HTML • CSS • Tailwind CSS  
 
-**Backend:**  
-Node.js • Express.js • REST APIs  
+### ⚙️ Backend
+Node.js • Express.js • REST APIs • JWT Authentication  
 
-**Database:**  
+### 🗄 Database
 MongoDB • Mongoose  
 
-**Version Control:**  
-Git • GitHub  
+### ☁️ Tools & Deployment
+Git • GitHub • Render • Cloudinary • MongoDB Atlas  
 
 ---
 
-## ⭐ Featured Projects
+## ⭐ Featured Project
+
+### 🎓 SkillHive – Full Stack LMS Platform
+A modern **Learning Management System** built using the **MERN Stack**.
+
+- 🔗 **Live Demo:** https://skillhive-bksm.onrender.com/
+- 💻 **GitHub Repo:** https://github.com/Arjun490209/SkillHive
+- 🔐 JWT Authentication & Authorization
+- 📚 Course Management, Reviews & Ratings
+- 🔍 AI-powered Course Search
+- 👤 Profile Management with Image Upload
+
+---
+
+## 📌 Other Projects
 
 | Project | Tech | Description |
-|--------|------|-------------|
-| 🛍 Shopping Website | MERN Stack | Full Authentication + Product + Cart System |
-| ⌨ Typing Master Game | HTML, CSS, JS | Improve typing skills with challenges |
-| 🔐 Auth System | MERN Stack | JWT Based Secure Authentication & Authorization |
+|-------|------|-------------|
+| 🛍 Shopping Website | MERN Stack | Authentication, Products, Cart System |
+| ⌨ Typing Master Game | HTML, CSS, JS | Improve typing speed with challenges |
+| 🔐 Auth System | MERN Stack | Secure JWT based authentication |
 
-🔗 *More projects coming soon…*
+🔗 *More advanced projects coming soon…*
 
 ---
 
@@ -50,11 +67,18 @@ Git • GitHub
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun490209&layout=compact&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arjun490209&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🤝 Connect With Me
-- 📧 Email: your- Cololfulz099@gmail.com 
+
+- 📧 Email: **Cololfulz099@gmail.com**
+- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: *Coming Soon*
 
 ---
 
-🔥 *Always learning, always improving!* ⚡
+🔥 *Always learning, always building, always improving!* ⚡  
