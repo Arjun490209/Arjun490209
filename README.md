@@ -45,6 +45,19 @@ A modern **Learning Management System** built using the **MERN Stack**.
 
 ---
 
+## 🌐 Live Projects & Tools
+
+- 🤖 **AI Tools Platform**  
+  https://tools-ifkl.onrender.com  
+
+- ⚡ **QuickGPT – AI Chat App**  
+  https://greatstack.dev/p/quickgpt  
+
+- 🎨 **Personal Portfolio Website**  
+  https://portfolio-gna1.onrender.com/  
+
+---
+
 ## 📌 Other Projects
 
 | Project | Tech | Description |
@@ -67,7 +80,10 @@ A modern **Learning Management System** built using the **MERN Stack**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun490209&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun490209&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
@@ -81,10 +97,10 @@ A modern **Learning Management System** built using the **MERN Stack**.
 
 ## 🤝 Connect With Me
 
-- 📧 Email: **Cololfulz099@gmail.com**
-- 🌐 Portfolio: *Coming Soon*
-- 💼 LinkedIn: *Coming Soon*
+- 📧 **Professional Email:** arjun.prajapati.stack@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/arjun-prajapati-6452013a3  
+- 🌐 **Portfolio:** https://portfolio-gna1.onrender.com/  
 
 ---
 
-🔥 *Always learning, always building, always improving!* ⚡  
+🔥 *Always learning, always building, always improving!* ⚡
