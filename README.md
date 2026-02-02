@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Prajapati</h1>
 <h3 align="center">
-🚀 Full Stack Web Developer | MERN Stack & Next.js | Building Real-World Products
+🚀 Full Stack Web Developer | MERN Stack & Next.js | Building Real-World Projects
 </h3>
 
 <p align="center">
@@ -13,10 +13,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student & Passionate Full Stack Developer  
-- 💻 Skilled in **MERN Stack & Next.js**  
-- 🚀 Built **real-world, production-ready projects**  
-- 🌱 Currently learning **Advanced Backend, System Design & Deployment**  
+- 🎓 Computer Science Student & Passionate Developer  
+- 💻 Full Stack Web Developer (**MERN Stack & Next.js**)  
+- 🚀 Built multiple **real-world & production-ready projects**  
+- 🌱 Currently learning **Advanced Backend, APIs & Deployment**  
 - 🎯 Goal: Become a **Professional Full Stack Software Engineer**
 
 ---
@@ -33,7 +33,7 @@
 ### ⚙️ Backend
 - Node.js  
 - Express.js  
-- RESTful APIs  
+- REST APIs  
 - JWT Authentication  
 
 ### 🗄 Database
@@ -43,6 +43,7 @@
 ### ☁️ Tools & Deployment
 - Git & GitHub  
 - Render  
+- Vercel  
 - Cloudinary  
 - MongoDB Atlas  
 
@@ -57,24 +58,53 @@ A modern **Learning Management System** built using the **MERN Stack**.
 💻 **GitHub Repo:** https://github.com/Arjun490209/SkillHive  
 
 **Key Features**
-- 🔐 JWT Authentication & Role-Based Authorization  
-- 📚 Course Management (Create, Update, Delete)  
-- ⭐ Reviews & Ratings System  
+- 🔐 JWT Authentication & Authorization  
+- 📚 Course Management System  
+- ⭐ Reviews & Ratings  
 - 🤖 AI-powered Course Search  
-- 👤 User Profile Management with Image Upload  
+- 👤 Profile Management with Image Upload  
 
 ---
 
 ## 🌐 Live Projects
 
-- 🤖 **AI Tools Platform**  
-  https://tools-ifkl.onrender.com  
+### 💬 ChatVibe – Real-Time Chat App (Next.js)
+- 🔗 https://chatvibe-ten.vercel.app/
+- ⚙️ Built with **Next.js**
+- 💬 Real-time chat experience
+- 🎨 Modern UI & responsive design
 
-- ⚡ **QuickGPT – AI Chat Application**  
-  https://greatstack.dev/p/quickgpt  
+---
 
-- 🎨 **Personal Portfolio Website**  
-  https://portfolio-gna1.onrender.com/  
+### 🛒 Multi-Play Mart – Shopping Website
+- 🔗 https://multi-play-mart.vercel.app/
+- 🧩 Built using **Next JS**
+- 🛍 Product listing & UI-focused project
+- 📱 Fully responsive design
+
+---
+
+### 💰 Money Manager – Expense Tracker
+- 🔗 https://money-manager-psi-opal.vercel.app/
+- 📊 Track income & expenses
+- 🧮 Built using **HTML, CSS & JavaScript**
+- 🎯 Simple and clean UI
+
+---
+
+### 🤖 AI Tools Platform
+- 🔗 https://tools-ifkl.onrender.com
+- ⚙️ MERN Stack based platform
+- 🤖 Collection of AI-powered tools
+- 🔐 Auth & protected routes
+
+---
+
+### 💬 Chat Application (MERN)
+- 🔗 https://chat-app-8itp.onrender.com
+- ⚡ Real-time chat using **Socket.io**
+- 🔐 Authentication system
+- 🌐 MERN Stack based project
 
 ---
 
@@ -82,29 +112,12 @@ A modern **Learning Management System** built using the **MERN Stack**.
 
 | Project | Tech Stack | Description |
 |-------|-----------|-------------|
-| 🛍 Shopping Website | MERN Stack | Auth, Products, Cart & Checkout |
-| ⌨ Typing Master Game | HTML, CSS, JS | Typing speed improvement game |
-| 🔐 Authentication System | MERN Stack | Secure JWT-based Auth System |
+| 🛍 Shopping Website | MERN Stack | Auth, Products, Cart System |
+| ⌨ Typing Master Game | HTML, CSS, JS | Improve typing speed |
+| 🔐 Auth System | MERN Stack | Secure JWT Authentication |
 
 🚧 *More advanced projects coming soon…*
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjun490209&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun490209&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjun490209&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
